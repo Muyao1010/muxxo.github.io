@@ -8,7 +8,7 @@ titles:
 key: page-about
 ---
 
-![作者](http:\\muxxo.github.io\img\avatar-xmy.jpg)
+![作者](http://muxxo.github.io/img/avatar-xmy.jpg)
 
 我岂不要凭眷恋的痴情，带给人生那唯一的艳影？
 ——《浮士德 》 
