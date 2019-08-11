@@ -1,8 +1,8 @@
 ---
 layout: article
 title: 我将沉默
-tags: 杂感
-key: wojiang20130219
+tags: 散文
+key: wj20130219
 ---
 
  我将沉默<!--more-->
