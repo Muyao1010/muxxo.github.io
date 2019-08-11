@@ -2,7 +2,7 @@
 layout: article
 title: 恐惧 - 无法摆脱的噩梦
 tag: 读书笔记
-key: kongjuwufa20091215
+key: kj20091215
 mode: immersive
 header:
   theme: dark
