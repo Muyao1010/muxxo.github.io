@@ -1,8 +1,8 @@
 ---
 layout: article
 title: 丑小鸭衍生版
-tag: 读书笔记
-key: chouxiaoya20150429
+tag: 读后感
+key: cx20150429
 mode: immersive
 header:
   theme: dark
