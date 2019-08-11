@@ -22,7 +22,7 @@ url     : https://muyao1010.github.io # the base hostname & protocol for your si
 baseurl : "" # does not include hostname
 title   : 林中呓语
 description: > # this means to ignore newlines until "Language & timezone"
-  我的博客
+  木木的博客
 
 
 ## => Language and Timezone
@@ -36,8 +36,8 @@ timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_
 author:
   type      : person # "person" (default), "organization"
   name      : 木木
-  url       : https://muyao1010.github.io
-  avatar    : /img/avatar-xmy  # path or url of avatar image
+  url       : https://muxxo.github.io
+  avatar    : /img/avatar-xmy.jpg  # path or url of avatar image
   bio       : I am an amazing person.
   email     : 350339118@qq.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
@@ -53,7 +53,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: muyao1010/muyao1010
+repository: muyao1010/muxxo
 repository_tree: master
 
 
