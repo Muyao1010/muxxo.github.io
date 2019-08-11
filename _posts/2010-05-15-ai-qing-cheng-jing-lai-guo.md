@@ -1,8 +1,8 @@
 ---
 layout: article
 title: 爱情曾经来过？
-tags: 天马行空
-key: aiqingcengjing20100515
+tags: 随笔
+key: aqjing20100515
 ---
 
 好吧，我承认我是标题党。话说挂羊头卖狗肉早就是主流了，俺也得随大流，随大流啊。­
