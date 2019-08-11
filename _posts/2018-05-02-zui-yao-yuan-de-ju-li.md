@@ -1,8 +1,8 @@
 ---
 layout: article
 title: 最遥远的距离
-tags: 杂感
-key: zuiyaoyuan20180502
+tags: 散文
+key: zy20180502
 ---
 
 终于明白
