@@ -1,8 +1,8 @@
 ---
 layout: article
 title: 给你我的灯
-tags: 杂感
-key: geini20170714
+tags: 散文
+key: gn20170714
 ---
 
 我给你我的灯
