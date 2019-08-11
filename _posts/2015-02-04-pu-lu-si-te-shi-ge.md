@@ -1,8 +1,8 @@
 ---
 layout: article
 title: 《普鲁斯特是个神经学家》
-tag: 读书笔记
-key: pulusite20150204
+tag: 读后感
+key: pl20150204
 mode: immersive
 header:
   theme: dark
