@@ -2,7 +2,7 @@
 layout: article
 title: 给自己的忠告
 tags: 朝乾夕惕
-key: geizijide20090925
+key: gz20090925
 ---
 
 1  Just do it  即使还有更多足以留在原地的理由。
