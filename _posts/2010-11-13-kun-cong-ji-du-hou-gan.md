@@ -1,8 +1,8 @@
 ---
 layout: article
 title: 《昆虫记》读后感
-tag: 读书笔记
-key: kuncongji20101113
+tag: 读后感
+key: kc20101113
 mode: immersive
 header:
   theme: dark
