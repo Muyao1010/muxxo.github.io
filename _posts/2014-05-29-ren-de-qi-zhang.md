@@ -2,7 +2,7 @@
 layout: article
 title: 人的七张面孔
 tags: 读书笔记
-key: rende20140529
+key: rd20140529
 ---
 
 ——《人的七张面孔》笔记<!--more-->
