@@ -1,8 +1,8 @@
 ---
 layout: article
 title: 子虚乌有之地
-tags: 杂感
-key: zhixuwuyou20190808
+tags: 散文
+key: zx20190808
 ---
 
 浩瀚的星空中
