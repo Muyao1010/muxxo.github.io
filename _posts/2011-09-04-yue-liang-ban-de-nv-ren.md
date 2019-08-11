@@ -1,8 +1,8 @@
 ---
 layout: article
 title: 月亮般的女人
-tags: 读书笔记
-key: yueliangbande20110904
+tags: 读后感
+key: yl20110904
 ---
 
 ——《白夜行》读后感
