@@ -1,8 +1,8 @@
 ---
 layout: article
 title: 《心理类型学》读书笔记
-tag: 读书笔记
-key: xinlileixin20101127
+tag: 读后感
+key: xl20101127
 mode: immersive
 header:
   theme: dark
