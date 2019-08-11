@@ -1,8 +1,8 @@
 ---
 layout: article
 title: 梦与记忆
-tag: 读书笔记
-key: mengyujiyi20110605
+tag: 读后感
+key: my20110605
 mode: immersive
 header:
   theme: dark
