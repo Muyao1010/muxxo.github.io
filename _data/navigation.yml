@@ -6,6 +6,12 @@ header:
       zh-Hant:  歸檔
     url:        /archive.html
   - titles:
+      en:       Message
+      zh:       留言
+      zh-Hans:  留言
+      zh-Hant:  留言
+    url:        /message.html
+  - titles:
       en:       About
       zh:       关于
       zh-Hans:  关于
